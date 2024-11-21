@@ -1,1 +1,1 @@
-hola soy un conflicto
+hola soy un otro conflicto potenciado
